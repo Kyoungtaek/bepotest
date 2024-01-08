@@ -1,3 +1,15 @@
+/*!
+	Copyright (c) 2018 Jed Watson.
+	Licensed under the MIT License (MIT), see
+	http://jedwatson.github.io/classnames
+*/
+
+/*! @azure/msal-browser v3.6.0 2023-12-01 */
+
+/*! @azure/msal-common v14.5.0 2023-12-01 */
+
+/*! @azure/msal-react v2.0.8 2023-12-01 */
+
 /**
  * @license React
  * react-dom.production.min.js
